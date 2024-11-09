@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/abdulahad139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abdulahad139/" height="70" width="80" /></a>
 <a href="https://www.youtube.com/@abdulahad-139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdulahad-139" height="70" width="80" /></a>
 <a href="https://leetcode.com/u/Abdul_Ahad18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abdul_Ahad18" height="70" width="80" /></a>
-<a href="https://www.hackerrank.com/profile/abdulahad1821481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="profile.php?id=100091481550147" height="70" width="80" /></a>
+<a href="https://www.hackerrank.com/profile/abdulahad1821481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile.php?id=100091481550147" height="70" width="80" /></a>
 </p>
 
 <!--
