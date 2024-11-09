@@ -9,6 +9,8 @@
   
 - 💬 Ask me about **Python**
 
+![](https://komarev.com/ghpvc/?username=abdulahad139&color=orange)
+
 <br />
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
