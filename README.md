@@ -26,6 +26,8 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-regular/512/FFFFFF/nextjs.png" alt="Nextjs" width="80" height="80"/> </a></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad139&show_icons=true&locale=en&layout=compact" alt="abdulahad139" /></p>
 <br /> 
+<h2 align="left">LeetCode Stats:</h2>
+<p align="center"> <img align="center" src="https://leetcard.jacoblin.cool/Abdul_Ahad18?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Stats"/></p>
 <!--
 **abdulahad139/abdulahad139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
