@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science and Generative AI**
   
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Machine Learning and Generative AI**
 
 <br />
 <h2 align="left">Connect With Me:</h2>
